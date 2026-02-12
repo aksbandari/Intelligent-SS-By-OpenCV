@@ -53,3 +53,7 @@ How to Run
 Install required Python dependencies
 Connect webcam or CCTV feed
 Execute the main Python script
+
+Accuracy = 95%
+(20 / 21)preductions = 95 
+Accuracy drops to 81% in low light
